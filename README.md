@@ -9,10 +9,8 @@
 <br>
 <h3>I'm currently working on/learning:
 <ul>
-  <li>Machine Learning w/ TensorFlow</li>
-  <li>Flask/Python</li>
-  <li>Android/Kotlin</li>
-  <li>Data Governance & Cloud Management</li>
+  <li>Ruby!</li>
+  <li>TDD & OOP</li>
 </ul>
   <h3>Get in touch @ will.oconnell@live.com </h3>
   <br>
