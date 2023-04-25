@@ -9,8 +9,7 @@
 <br>
 <h3>I'm currently working on:
 <ul>
-  <li>Ruby!</li>
-  <li>TDD & OOP</li>
+  <li>Data Engineering</li>
 </ul>
   <h3>Get in touch @ will.oconnell@live.com </h3>
   <br>
